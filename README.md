@@ -8,7 +8,7 @@ This site showcases my work as a future **SOC Analyst**, designer, and tech enth
 
 ## 🔗 Live Website
 
-**🌐 https://0xDeyan.github.io/portfolio/**  
+**🌐 https://0xDeyan.github.io/me/**  
 > Hosted with GitHub Pages – always free, always online.
 
 ---
